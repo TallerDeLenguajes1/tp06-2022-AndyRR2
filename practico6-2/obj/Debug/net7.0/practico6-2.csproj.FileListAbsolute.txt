@@ -1,0 +1,15 @@
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\bin\Debug\net7.0\practico6-2.exe
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\bin\Debug\net7.0\practico6-2.deps.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\bin\Debug\net7.0\practico6-2.runtimeconfig.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\bin\Debug\net7.0\practico6-2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\bin\Debug\net7.0\practico6-2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.csproj.AssemblyReference.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.AssemblyInfoInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.AssemblyInfo.cs
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.csproj.CoreCompileInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\refint\practico6-2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\practico6-2.genruntimeconfig.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\practico6-2\obj\Debug\net7.0\ref\practico6-2.dll
