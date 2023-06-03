@@ -1,0 +1,15 @@
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\bin\Debug\net7.0\punto_2.exe
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\bin\Debug\net7.0\punto_2.deps.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\bin\Debug\net7.0\punto_2.runtimeconfig.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\bin\Debug\net7.0\punto_2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\bin\Debug\net7.0\punto_2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.csproj.AssemblyReference.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.AssemblyInfoInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.AssemblyInfo.cs
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.csproj.CoreCompileInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\refint\punto_2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\punto_2.genruntimeconfig.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\punto_2\obj\Debug\net7.0\ref\punto_2.dll

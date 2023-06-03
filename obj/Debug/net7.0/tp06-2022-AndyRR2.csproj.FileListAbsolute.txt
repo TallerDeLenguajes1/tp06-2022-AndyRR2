@@ -1,0 +1,15 @@
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.csproj.AssemblyReference.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.AssemblyInfoInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.AssemblyInfo.cs
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.csproj.CoreCompileInputs.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\bin\Debug\net7.0\tp06-2022-AndyRR2.exe
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\bin\Debug\net7.0\tp06-2022-AndyRR2.deps.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\bin\Debug\net7.0\tp06-2022-AndyRR2.runtimeconfig.json
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\bin\Debug\net7.0\tp06-2022-AndyRR2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\bin\Debug\net7.0\tp06-2022-AndyRR2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\refint\tp06-2022-AndyRR2.dll
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.pdb
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\tp06-2022-AndyRR2.genruntimeconfig.cache
+C:\Taller1\tp06-2\tp06-2022-AndyRR2\obj\Debug\net7.0\ref\tp06-2022-AndyRR2.dll
